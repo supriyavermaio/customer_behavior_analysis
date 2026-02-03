@@ -16,7 +16,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
-## 🛠️ How to Use This Project
+## 🛠️ Project Steps
 
 1. **Clone the repository**
    ```bash
